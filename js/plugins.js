@@ -5,5 +5,5 @@ var $plugins =
 {"name":"PluginCommonBase","status":true,"description":"パラメータ解析を提供する共通基盤です","parameters":{}},
 {"name":"Mihil_Window_EventSkill","status":true,"description":"「アイテム選択の処理」のようにスキルを選択してIDを変数に渡す","parameters":{}},
 {"name":"LL_ActorChoices","status":true,"description":"アクターを選択するプラグインコマンドを実装します。","parameters":{}},
-{"name":"MNKR_VariableCommand","status":true,"description":"変数が使用できないイベントコマンドをプラグインコマンドで使用可能にします。","parameters":{}}
+{"name":"MNKR_VariableCommand","status":true,"description":"イベントコマンドで変数が選べない組み合わせを使用可能にするプラグインコマンドを追加します。","parameters":{}}
 ];
